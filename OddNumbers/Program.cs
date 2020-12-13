@@ -14,6 +14,7 @@ namespace check1
             List<int> numbersInputOdd = new List<int>();
             List<int> numbersInputEven = new List<int>();
 
+            //git test
             Console.Write("Enter a Number : ");
             input = int.Parse(Console.ReadLine());
 
